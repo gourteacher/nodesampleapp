@@ -1,6 +1,6 @@
 // Load the express module.
 var http = require('http')
-var PORT = 6000
+var PORT = 8080
 
 http.createServer(function (request, response) {
    // Send the HTTP header 
