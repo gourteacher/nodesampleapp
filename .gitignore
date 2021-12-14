@@ -1,0 +1,5 @@
+ignore the following files:
+
+*.pidv
+*.vscode
+*.npm
