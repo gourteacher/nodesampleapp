@@ -1,0 +1,4 @@
+ignore the the file patterns below:
+*.pidv
+*.vscode
+*.npm
