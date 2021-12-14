@@ -1,0 +1,4 @@
+#Manually added
+*.log
+*.lock
+*.pem
